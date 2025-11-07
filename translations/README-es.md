@@ -1,4 +1,4 @@
-﻿# Coding Interview University
+# Coding Interview University
 
 - Versión original: [Inglés](../README.md)
 
